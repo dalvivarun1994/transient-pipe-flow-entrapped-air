@@ -24,6 +24,10 @@ Implicit Newton-Raphson solution of the coupled equations.
 
 The experimental configuration and measured pressure data used for model validation were reproduced from the doctoral thesis by Nahm Ho Lee, Effect of Pressurization and Expulsion of Entrapped Air in Pipelines, Georgia Institute of Technology, 2005.
 
+## Transient valve opening history 
+
+<img width="862" height="520" alt="image" src="https://github.com/user-attachments/assets/7fece4e4-b9ae-4a74-935d-9ce1551fb321" />
+
 ## Parametric Study
 <img width="1722" height="1288" alt="graphic3_complete_matrix_plot" src="https://github.com/user-attachments/assets/2a65ecb3-b64f-445d-841d-1974f39ab1ac" />
 
